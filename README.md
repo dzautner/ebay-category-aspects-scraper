@@ -1,4 +1,4 @@
-# eBay ended biddings and aspects scrper
+# eBay ended biddings and aspects scraper
 
 This script will listen and store every ending bidding on a given eBay category to mongodb and enrich it with every aspect in the category.
 ## Setup
