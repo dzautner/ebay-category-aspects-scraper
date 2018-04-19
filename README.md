@@ -21,7 +21,7 @@ https://go.developer.ebay.com/
 
 Simply run `scrape.py` with the required params, e.g:
 
-```python
+```bash
 python3 scrape.py \
 	--mongodb-connection="mongodb://localhost:27017/" \
 	--mongodb-database="ebay" \
